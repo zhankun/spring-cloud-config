@@ -1,7 +1,0 @@
-info:
- profile: dev
- from: git
-
-test:
- name: config from spring-cloud config
- desc: i'm test config
